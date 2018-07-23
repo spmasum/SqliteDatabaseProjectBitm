@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SqliteDatabaseProjectBitm</string>
+    <string name="empty_error_msg">This field must not be empty.</string>
+    <string name="success_msg">Successfull</string>
+    <string name="failed_msg">Not Successfull</string>
+    <string name="snackbarMsg">Please enable all permission.</string>
+
+</resources>
